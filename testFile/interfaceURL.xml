@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<interface>
+    <url name="login">
+        <group>api</group>
+        <module>Login</module>
+        <action>LoginIn</action>
+    </url>
+    <url name="bklist">
+        <group>api</group>
+        <module>CarDeployApply</module>
+        <action>GetCarDeployApplyList</action>
+    </url>
+</interface>
